@@ -6,7 +6,7 @@
 
 
 # RAILS
-
+/.idea
   *.rbc
  capybara-*.html
  .rspec
