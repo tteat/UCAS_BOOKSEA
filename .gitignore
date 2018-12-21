@@ -9,6 +9,7 @@
 /.idea
 /tmp
 /log
+/db/development.sqlite3
   *.rbc
  capybara-*.html
  .rspec
